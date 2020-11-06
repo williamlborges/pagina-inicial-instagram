@@ -135,11 +135,10 @@ body {
     }
 }
 
-@media (max-widht: 650px) {
+@media (max-width: 650px) {
     body {
         background-color: #ffffff;
     }
-    
     .instagram-wrapper {
         width: 90%;
     } 
